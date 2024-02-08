@@ -1,7 +1,7 @@
 # Volleyball_Ladder_System
 Large-scale, team management, court scheduling, and matchmaking app 
 
-**Features**
+## Features
 
 ### User Roles and Authentication:
 Employees can sign up and log in with their corporate credentials.
