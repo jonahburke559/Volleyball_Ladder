@@ -3,7 +3,7 @@ Large-scale, team management, court scheduling, and matchmaking app
 
 **Features**
 
-**User Roles and Authentication:**
+###**User Roles and Authentication:**
 Employees can sign up and log in with their corporate credentials.
 Different user roles such as players, team captains, and administrators are defined.
 
