@@ -45,7 +45,7 @@ Deployment: Docker containers for scalability and portability
 Monitoring: Logging and monitoring tools for performance tracking
 
 Installation and Setup
-Clone the repository from [].
+Clone the repository from ["https://github.com/jonahburke559/Volleyball_Ladder"].
 Set up the database and configure database connection settings.
 Install dependencies using pip install -r requirements.txt.
 Run the Flask application using python app.py.
