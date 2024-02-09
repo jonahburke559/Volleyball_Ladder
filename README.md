@@ -31,12 +31,19 @@ Users receive notifications about upcoming matches, changes in schedules, and te
 
 ### Technologies
 Backend: Python with Flask framework
+
 Frontend: HTML, CSS, JavaScript (React or Vue.js)
+
 Database: PostgreSQL or MySQL for data storage
+
 Authentication: OAuth for corporate authentication
+
 APIs: Integration with corporate systems for user authentication
+
 Deployment: Docker containers for scalability and portability
+
 Monitoring: Logging and monitoring tools for performance tracking
+
 Installation and Setup
 Clone the repository from [].
 Set up the database and configure database connection settings.
