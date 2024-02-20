@@ -5,8 +5,12 @@ from flask import Flask, render_template, request, redirect, url_for
 app = Flask(__name__)
 
 # Define routes
+#Jonah is the best programmer
+#jonah is not the best
 @app.route('/')
 def index():
+    a = 1
+    print(a)
     return render_template('index.html')
 
 # Define routes
